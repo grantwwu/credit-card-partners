@@ -16,7 +16,7 @@ cc = []
 for x in range(comparison):
     option = st.selectbox(
         'Select your credit card company', 
-        ('American Express', 'BILT', 'Chase', 'Capital One', 'Citi'),
+        ('American Express', 'BILT', 'Chase', 'Capital One', 'Citi', 'Wells Fargo'),
         key = x)
     cc.append(option)
     del option
@@ -70,29 +70,3 @@ else:
 plt.title("Credit Card Partners", fontsize = 14)
 plt.savefig('test.png')
 st.pyplot(plt.gcf())
-
-
-### SIGN UP & MONETIZATION ###
-port = 465  # For SSL
-smtp_server = "smtp.gmail.com"
-sender_email = "cc.travel.partners@gmail.com"  # Enter your address
-receiver_email = "cc.travel.partners@gmail.com"  # Enter receiver address
-password = "mdgs jhkf jtdy mczi"
-
-with st.form("subscription_form"):
-   st.write("If you find value, I'll take a coffee! If you want to be updated for next features, send your email!")
-   button(username="kharsono", floating=False, width=221, 
-       bg_color='#FFA62F')
-   user_email = st.text_input('Email Address:', None)
-   submit = st.form_submit_button('Send')
-   
-   if (submit == True and "@" in user_email):
-     message = user_email
-     context = ssl.create_default_context()
-     with smtplib.SMTP_SSL(smtp_server, port, context=context) as server:
-       server.login(sender_email, password)
-       server.sendmail(sender_email, receiver_email, message)
-     st.write("Thanks")
-   else:
-      st.write("Boo, no email yet  :(")
-
