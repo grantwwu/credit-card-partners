@@ -14,9 +14,11 @@ Capital One,Singapore
 Capital One,TAP Air Portugal
 Capital One,Turkish
 Capital One,Virgin
-Capital One,Accor Live Limitless
-Capital One,Choice Privileges
+Capital One,Accor
+Capital One,Choice
 Capital One,Wyndham
+Capital One,Japan Airlines
+Capital One,Preferred Hotels
 American Express,Aer Lingus
 American Express,Avianca 
 American Express,AeroMexico
@@ -28,21 +30,19 @@ American Express,Cathay Pacific
 American Express,Delta
 American Express,Emirates
 American Express,Etihad
-American Express,Hawaiian
 American Express,Iberia
 American Express,JetBlue
 American Express,Qantas
 American Express,Singapore
 American Express,Virgin
 American Express,Qatar
-American Express,Choice Privileges
+American Express,Choice
 American Express,Hilton Honors
 American Express,Marriott Bonvoy
 Chase,Aer Lingus
 Chase,Air Canada
 Chase,Air France
 Chase,British Airways
-Chase,Emirates
 Chase,Iberia
 Chase,JetBlue
 Chase,Singapore
@@ -82,7 +82,17 @@ Citi,Singapore
 Citi,Thai
 Citi,Turkish
 Citi,Virgin
-Citi,Accor Live Limitless
-Citi,Choice Privileges
-Citi,Leaders Club
+Citi,Accor
+Citi,Choice
+Citi,Leading Hotels of the World
 Citi,Wyndham
+Citi,American Airlines
+Citi,Preferred Hotels
+Wells Fargo,Aer Lingus
+Wells Fargo,Air France
+Wells Fargo,Avianca
+Wells Fargo,British Airways
+Wells Fargo,Iberia
+Wells Fargo,Virgin
+Wells Fargo,JetBlue
+Wells Fargo,Choice
