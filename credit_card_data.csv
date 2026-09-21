@@ -40,6 +40,7 @@ American Express,Qatar
 American Express,Choice
 American Express,Hilton Honors
 American Express,Marriott Bonvoy
+American Express,Leading Hotels of the World
 Chase,Aer Lingus
 Chase,Air Canada
 Chase,Air France
@@ -89,6 +90,7 @@ Citi,Leading Hotels of the World
 Citi,Wyndham
 Citi,American Airlines
 Citi,Preferred Hotels
+Citi,Japan Airlines
 Wells Fargo,Aer Lingus
 Wells Fargo,Air France
 Wells Fargo,Avianca
@@ -97,3 +99,5 @@ Wells Fargo,Iberia
 Wells Fargo,Virgin
 Wells Fargo,JetBlue
 Wells Fargo,Choice
+Wells Fargo,Wyndham
+Wells Fargo,Cathay Pacific
