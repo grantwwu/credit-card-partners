@@ -2,9 +2,10 @@ Credit Card,Travel Partner
 Capital One,AeroMexico
 Capital One,Air Canada
 Capital One,Air France
-Capital One,Avianca 
+Capital One,Avianca
 Capital One,British Airways
 Capital One,Cathay Pacific
+Capital One,Copa
 Capital One,Emirates
 Capital One,Etihad
 Capital One,EVA Air
@@ -21,7 +22,7 @@ Capital One,Japan Airlines
 Capital One,Preferred Hotels
 Capital One,JetBlue
 American Express,Aer Lingus
-American Express,Avianca 
+American Express,Avianca
 American Express,AeroMexico
 American Express,Air Canada
 American Express,Air France
@@ -45,10 +46,12 @@ Chase,Aer Lingus
 Chase,Air Canada
 Chase,Air France
 Chase,British Airways
+Chase,Cathay Pacific
 Chase,Iberia
 Chase,JetBlue
 Chase,Singapore
 Chase,Southwest
+Chase,Qantas
 Chase,United
 Chase,Virgin
 Chase,Marriott Bonvoy
@@ -56,13 +59,14 @@ Chase,IHG
 Chase,Hyatt
 BILT,Alaska
 BILT,British Airways
+BILT,Copa
 BILT,Iberia
 BILT,Virgin
 BILT,United
 BILT,Turkish
 BILT,Emirates
 BILT,Cathay Pacific
-BILT,Avianca 
+BILT,Avianca
 BILT,Air France
 BILT,Air Canada
 BILT,Aer Lingus
@@ -72,7 +76,7 @@ BILT,Marriott Bonvoy
 BILT,IHG
 BILT,Japan Airlines
 Citi,Cathay Pacific
-Citi,Avianca 
+Citi,Avianca
 Citi,Emirates
 Citi,Etihad
 Citi,EVA Air
