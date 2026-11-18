@@ -3,7 +3,6 @@ import pandas as pd
 from matplotlib_venn import venn2, venn3
 from matplotlib import pyplot as plt
 from streamlit_extras.buy_me_a_coffee import button
-import smtplib, ssl
 
 st.title("US Credit Card Travel Partners", 'center')
 
